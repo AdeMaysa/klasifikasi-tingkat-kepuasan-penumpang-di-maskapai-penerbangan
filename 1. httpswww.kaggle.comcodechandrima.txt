@@ -1,0 +1,1 @@
+1. https://www.kaggle.com/code/chandrimad31/flight-passenger-satisfaction-eda-and-prediction#Outliers-Detection-and-Removal
